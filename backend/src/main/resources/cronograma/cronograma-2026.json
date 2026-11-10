@@ -1,0 +1,2642 @@
+{
+ "ano": 2026,
+ "fonte": "Portaria SEFAZ-PI/GASEC nº 6/2026 (Anexos I e II) e fluxo interno GEPAG; feriados pelo Decreto estadual nº 24.285/2025 e calendário de Teresina.",
+ "feriados": [
+  {
+   "data": "2026-01-01",
+   "nome": "Confraternização Universal",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-01-02",
+   "nome": "Ponto facultativo",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-02-16",
+   "nome": "Carnaval",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-02-17",
+   "nome": "Carnaval",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-02-18",
+   "nome": "Quarta-feira de Cinzas",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-04-02",
+   "nome": "Semana Santa",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-04-03",
+   "nome": "Paixão de Cristo",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-04-21",
+   "nome": "Tiradentes",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-05-01",
+   "nome": "Dia do Trabalhador",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-06-04",
+   "nome": "Corpus Christi",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-08-16",
+   "nome": "Aniversário de Teresina",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-09-07",
+   "nome": "Independência",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-10-12",
+   "nome": "N. Sra. Aparecida",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-10-19",
+   "nome": "Dia do Piauí",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-10-30",
+   "nome": "Dia do Servidor (ponto facultativo transferido)",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-11-02",
+   "nome": "Finados",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-11-15",
+   "nome": "Proclamação da República",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-11-20",
+   "nome": "Consciência Negra",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-12-08",
+   "nome": "N. Sra. da Conceição (feriado municipal em Teresina; facultativo estadual)",
+   "tipo": "FERIADO_MUNICIPAL"
+  },
+  {
+   "data": "2026-12-24",
+   "nome": "Véspera de Natal",
+   "tipo": "PONTO_FACULTATIVO"
+  },
+  {
+   "data": "2026-12-25",
+   "nome": "Natal",
+   "tipo": "FERIADO"
+  },
+  {
+   "data": "2026-12-31",
+   "nome": "Véspera de Ano Novo",
+   "tipo": "PONTO_FACULTATIVO"
+  }
+ ],
+ "folha": [
+  {
+   "competencia": "2026-01",
+   "transmissao": "2026-01-15T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-01-16",
+   "limiteGepag": "2026-01-19",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-01-22",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-02",
+   "transmissao": "2026-02-12T11:00:00",
+   "diasUteisAteFaixa1": 3,
+   "processamento": "2026-02-13",
+   "limiteGepag": "2026-02-20",
+   "diasUteisGepag": 3,
+   "margem": 0,
+   "faixa1": "2026-02-23",
+   "situacao": "Sem folga"
+  },
+  {
+   "competencia": "2026-03",
+   "transmissao": "2026-03-16T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-03-17",
+   "limiteGepag": "2026-03-18",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-03-23",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-04",
+   "transmissao": "2026-04-13T11:00:00",
+   "diasUteisAteFaixa1": 5,
+   "processamento": "2026-04-14",
+   "limiteGepag": "2026-04-16",
+   "diasUteisGepag": 3,
+   "margem": 2,
+   "faixa1": "2026-04-22",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-05",
+   "transmissao": "2026-05-18T11:00:00",
+   "diasUteisAteFaixa1": 2,
+   "processamento": "2026-05-19",
+   "limiteGepag": "2026-05-20",
+   "diasUteisGepag": 2,
+   "margem": 0,
+   "faixa1": "2026-05-21",
+   "situacao": "Sem folga"
+  },
+  {
+   "competencia": "2026-06",
+   "transmissao": "2026-06-16T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-06-17",
+   "limiteGepag": "2026-06-18",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-06-23",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-07",
+   "transmissao": "2026-07-15T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-07-16",
+   "limiteGepag": "2026-07-17",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-07-22",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-08",
+   "transmissao": "2026-08-17T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-08-18",
+   "limiteGepag": "2026-08-19",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-08-23",
+   "situacao": "OB domingo"
+  },
+  {
+   "competencia": "2026-09",
+   "transmissao": "2026-09-15T11:00:00",
+   "diasUteisAteFaixa1": 4,
+   "processamento": "2026-09-16",
+   "limiteGepag": "2026-09-17",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "faixa1": "2026-09-22",
+   "situacao": "2 dias de folga"
+  },
+  {
+   "competencia": "2026-10",
+   "transmissao": "2026-10-15T11:00:00",
+   "diasUteisAteFaixa1": 3,
+   "processamento": "2026-10-16",
+   "limiteGepag": "2026-10-21",
+   "diasUteisGepag": 3,
+   "margem": 0,
+   "faixa1": "2026-10-22",
+   "situacao": "Sem folga"
+  },
+  {
+   "competencia": "2026-11",
+   "transmissao": "2026-11-16T11:00:00",
+   "diasUteisAteFaixa1": 3,
+   "processamento": "2026-11-17",
+   "limiteGepag": "2026-11-19",
+   "diasUteisGepag": 3,
+   "margem": 0,
+   "faixa1": "2026-11-23",
+   "situacao": "Sem folga"
+  },
+  {
+   "competencia": "2026-12",
+   "transmissao": "2026-12-14T11:00:00",
+   "diasUteisAteFaixa1": 5,
+   "processamento": "2026-12-15",
+   "limiteGepag": "2026-12-17",
+   "diasUteisGepag": 3,
+   "margem": 2,
+   "faixa1": "2026-12-22",
+   "situacao": "2 dias de folga"
+  }
+ ],
+ "ppf": [
+  {
+   "competencia": "2026-01",
+   "integracao": null,
+   "diasUteisAteExecucao": null,
+   "processamento": null,
+   "limiteGepag": null,
+   "diasUteisGepag": null,
+   "margem": null,
+   "execucao": null,
+   "pagamento": "2026-02-10",
+   "nota": "Integração não publicada; pagamento de janeiro realizado em fevereiro."
+  },
+  {
+   "competencia": "2026-02",
+   "integracao": null,
+   "diasUteisAteExecucao": null,
+   "processamento": null,
+   "limiteGepag": null,
+   "diasUteisGepag": null,
+   "margem": null,
+   "execucao": "2026-02-26",
+   "pagamento": "2026-02-27",
+   "nota": "Integração não publicada: limite GEPAG a definir."
+  },
+  {
+   "competencia": "2026-03",
+   "integracao": "2026-03-19",
+   "diasUteisAteExecucao": 5,
+   "processamento": "2026-03-20",
+   "limiteGepag": "2026-03-24",
+   "diasUteisGepag": 3,
+   "margem": 2,
+   "execucao": "2026-03-27",
+   "pagamento": "2026-03-31",
+   "nota": null
+  },
+  {
+   "competencia": "2026-04",
+   "integracao": "2026-04-20",
+   "diasUteisAteExecucao": 4,
+   "processamento": "2026-04-22",
+   "limiteGepag": "2026-04-23",
+   "diasUteisGepag": 2,
+   "margem": 2,
+   "execucao": "2026-04-28",
+   "pagamento": "2026-04-30",
+   "nota": null
+  },
+  {
+   "competencia": "2026-05",
+   "integracao": "2026-05-19",
+   "diasUteisAteExecucao": 6,
+   "processamento": "2026-05-20",
+   "limiteGepag": "2026-05-25",
+   "diasUteisGepag": 4,
+   "margem": 2,
+   "execucao": "2026-05-28",
+   "pagamento": "2026-05-29",
+   "nota": null
+  },
+  {
+   "competencia": "2026-06",
+   "integracao": "2026-06-18",
+   "diasUteisAteExecucao": 6,
+   "processamento": "2026-06-19",
+   "limiteGepag": "2026-06-24",
+   "diasUteisGepag": 4,
+   "margem": 2,
+   "execucao": "2026-06-27",
+   "pagamento": "2026-06-30",
+   "nota": null
+  },
+  {
+   "competencia": "2026-07",
+   "integracao": "2026-07-16",
+   "diasUteisAteExecucao": 9,
+   "processamento": "2026-07-17",
+   "limiteGepag": "2026-07-27",
+   "diasUteisGepag": 7,
+   "margem": 2,
+   "execucao": "2026-07-30",
+   "pagamento": "2026-07-31",
+   "nota": null
+  },
+  {
+   "competencia": "2026-08",
+   "integracao": "2026-08-18",
+   "diasUteisAteExecucao": 7,
+   "processamento": "2026-08-19",
+   "limiteGepag": "2026-08-25",
+   "diasUteisGepag": 5,
+   "margem": 2,
+   "execucao": "2026-08-28",
+   "pagamento": "2026-08-31",
+   "nota": null
+  },
+  {
+   "competencia": "2026-09",
+   "integracao": "2026-09-18",
+   "diasUteisAteExecucao": 6,
+   "processamento": "2026-09-21",
+   "limiteGepag": "2026-09-24",
+   "diasUteisGepag": 4,
+   "margem": 2,
+   "execucao": "2026-09-29",
+   "pagamento": "2026-09-30",
+   "nota": null
+  },
+  {
+   "competencia": "2026-10",
+   "integracao": "2026-10-19",
+   "diasUteisAteExecucao": 8,
+   "processamento": "2026-10-20",
+   "limiteGepag": "2026-10-27",
+   "diasUteisGepag": 6,
+   "margem": 2,
+   "execucao": "2026-10-30",
+   "pagamento": "2026-10-30",
+   "nota": null
+  },
+  {
+   "competencia": "2026-11",
+   "integracao": "2026-11-17",
+   "diasUteisAteExecucao": 6,
+   "processamento": "2026-11-18",
+   "limiteGepag": "2026-11-24",
+   "diasUteisGepag": 4,
+   "margem": 2,
+   "execucao": "2026-11-27",
+   "pagamento": "2026-11-30",
+   "nota": null
+  },
+  {
+   "competencia": "2026-12",
+   "integracao": "2026-12-17",
+   "diasUteisAteExecucao": 6,
+   "processamento": "2026-12-18",
+   "limiteGepag": "2026-12-23",
+   "diasUteisGepag": 4,
+   "margem": 2,
+   "execucao": "2026-12-30",
+   "pagamento": "2026-12-31",
+   "nota": null
+  }
+ ],
+ "eventos": [
+  {
+   "data": "2026-01-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "OUTROS",
+   "texto": "1 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-01-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "CREDITO",
+   "texto": "2 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-01-15",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "3 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-01-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "4 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-01-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-01-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "EXECUCAO_OB",
+   "texto": "6 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-01-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-01",
+   "tipo": "CREDITO",
+   "texto": "7 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-01-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-01-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-01-28",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-02-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10 horas"
+  },
+  {
+   "data": "2026-02-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-02-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e Faltas"
+  },
+  {
+   "data": "2026-02-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "Último dia de Nomeações"
+  },
+  {
+   "data": "2026-02-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "4 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-02-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-02-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "FECHAMENTO",
+   "texto": "2 - Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-02-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "3 - Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-02-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-02-12",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-02-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-02-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-02-26",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-02-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-02-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-02-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-02-26",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-03-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10 horas"
+  },
+  {
+   "data": "2026-03-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-03-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e Faltas"
+  },
+  {
+   "data": "2026-03-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "Último dia de Nomeações"
+  },
+  {
+   "data": "2026-03-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-03-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "4 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-03-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "FECHAMENTO",
+   "texto": "2 - Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-03-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "3 - Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-03-16",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-03-17",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-03-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-03-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-03-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-03-31",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-03",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-03-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-03-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-03-26",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-04-02",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-04-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-04-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-04-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-04-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-04-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "2 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-04-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-04-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-04-13",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "5 – Envio Arquivos SEFAZ e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-04-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "CREDITO",
+   "texto": "6 – Crédito na conta do servidor Folha Suplementar"
+  },
+  {
+   "data": "2026-04-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 – SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-04-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "CREDITO",
+   "texto": "8 – Crédito na conta do servidor Faixa 1"
+  },
+  {
+   "data": "2026-04-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 – SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-04-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-04",
+   "tipo": "CREDITO",
+   "texto": "10 – Crédito na conta do servidor Faixa 2"
+  },
+  {
+   "data": "2026-04-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-04-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-04-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-05-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-05-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-05-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-05-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-05-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-05-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "2 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-05-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-05-12",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-05-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "CREDITO",
+   "texto": "5 – Crédito na conta do servidor Folha Suplementar"
+  },
+  {
+   "data": "2026-05-18",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 – Envio Arquivos SEFAZ e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-05-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 – SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-05-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "CREDITO",
+   "texto": "8 – Crédito na conta do servidor Faixa 1"
+  },
+  {
+   "data": "2026-05-28",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 – SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-05-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "tipo": "CREDITO",
+   "texto": "10 – Crédito na conta do servidor Faixa 2"
+  },
+  {
+   "data": "2026-05-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-05-25",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-05-28",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-06-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-06-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-06-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-06-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-06-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-06-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "2 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-06-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-06-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-06-15",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-06-16",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-06-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-06-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-06-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-06-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-06",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-06-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-06-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-06-26",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-07-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-07-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-07-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-07-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-07-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-07-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "2 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-07-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-07-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-07-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-07-15",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-07-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-07-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-07-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-07-31",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-07",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-07-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-07-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-07-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-08-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-08-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-08-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-08-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-08-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "1 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-08-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "2 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-08-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-08-12",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-08-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-08-17",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-08-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-08-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-08-28",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-08-31",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-08-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-08-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-08-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-09-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-09-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-09-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-09-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-09-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "1 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-09-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "2 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-09-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-09-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-09-15",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-09-15",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-09-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-09-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-09-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-09-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-09",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-09-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-09-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-09-25",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-10-02",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-10-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-10-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-10-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-10-07",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-10-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "FECHAMENTO",
+   "texto": "2 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-10-08",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "3 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-10-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-10-14",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-10-15",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "6 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-10-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "7 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-10-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "CREDITO",
+   "texto": "8 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "EXECUCAO_OB",
+   "texto": "9 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "tipo": "CREDITO",
+   "texto": "10 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-10-21",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-10-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-10-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "5 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "2 - Envio de informações contábeis e orçamentárias do 13/2026"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "7 - Envio Arquivos Sefaz e Relatórios Folha Ordinária - SEAD"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "CREDITO",
+   "texto": "6 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "8 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "CREDITO",
+   "texto": "9 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "EXECUCAO_OB",
+   "texto": "10 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "tipo": "CREDITO",
+   "texto": "11 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Folhas ordinárias criadas"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Início de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Fim de envio de processos dos órgãos para a SEAD"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Envio de Arquivos de Migração SGT até as 10h"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Conferência dos arquivos de retorno SGT"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Cálculo de consignação e faltas"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "Último dia de nomeações"
+  },
+  {
+   "data": "2026-12-01",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "1 – Prazo final de alteração nas folhas – UGs"
+  },
+  {
+   "data": "2026-12-02",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "FECHAMENTO",
+   "texto": "3 – Fechamento SIAPE - SEAD"
+  },
+  {
+   "data": "2026-12-03",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "4 – Validação final das informações da folha - UGs"
+  },
+  {
+   "data": "2026-12-04",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "1 – Envio de arquivo SEFAZ e Relatórios Folha Suplementar - SEAD"
+  },
+  {
+   "data": "2026-12-09",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "CREDITO",
+   "texto": "2 - Crédito na conta do servidor Folha Suplementar - Banco do Brasil"
+  },
+  {
+   "data": "2026-12-14",
+   "hora": "11:00",
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "TRANSMISSAO_SEAD",
+   "texto": "3 - Envio Arquivos Sefaz e Relatórios ATI - folha normal e 13º"
+  },
+  {
+   "data": "2026-12-15",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "EXECUCAO_OB",
+   "texto": "4 - SEFAZ emite OB do 13º e envia ao Banco"
+  },
+  {
+   "data": "2026-12-20",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "CREDITO",
+   "texto": "5 - Crédito do 13º na conta do servidor - Banco do Brasil"
+  },
+  {
+   "data": "2026-12-22",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "EXECUCAO_FAIXA_1",
+   "texto": "6 - SEFAZ emite OB e envia ao Banco - Faixa 1"
+  },
+  {
+   "data": "2026-12-23",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "CREDITO",
+   "texto": "7 - Crédito na conta do servidor Faixa 1 - Banco do Brasil"
+  },
+  {
+   "data": "2026-12-30",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "EXECUCAO_OB",
+   "texto": "8 - SEFAZ emite OB e envia ao Banco - Faixa 2"
+  },
+  {
+   "data": "2026-12-31",
+   "hora": null,
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "tipo": "CREDITO",
+   "texto": "9 - Crédito na conta do servidor Faixa 2 - Banco do Brasil"
+  },
+  {
+   "data": "2026-02-03",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas de Fevereiro no SIAPE-PPF"
+  },
+  {
+   "data": "2026-02-07",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da competência 02/2026"
+  },
+  {
+   "data": "2026-02-07",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "EXECUCAO_OB",
+   "texto": "3 - SEFAZ emite OB e envia ao Banco - competência 1/2026"
+  },
+  {
+   "data": "2026-02-10",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "CREDITO",
+   "texto": "4 - Pagamento Competência 1/2026"
+  },
+  {
+   "data": "2026-02-10",
+   "hora": "12:00",
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "FECHAMENTO",
+   "texto": "5 - Fechamento da Folha SIAPE-PPF Competência 2/2026"
+  },
+  {
+   "data": "2026-02-26",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "EXECUCAO_OB",
+   "texto": "6 - SEFAZ emite OB e envia ao Banco - competência 2/2026"
+  },
+  {
+   "data": "2026-02-27",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "CREDITO",
+   "texto": "7 - Pagamento Competência 2/2026"
+  },
+  {
+   "data": "2026-02-28",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "tipo": "OUTROS",
+   "texto": "8 - Prazo final para entrada de novo órgão para competência Março"
+  },
+  {
+   "data": "2026-03-02",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-03-10",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 3/2026"
+  },
+  {
+   "data": "2026-03-11",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 3/2026"
+  },
+  {
+   "data": "2026-03-19",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 3/2026"
+  },
+  {
+   "data": "2026-03-27",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 3/2026"
+  },
+  {
+   "data": "2026-03-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 3/2026"
+  },
+  {
+   "data": "2026-03-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-03",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Abril"
+  },
+  {
+   "data": "2026-04-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-04-09",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 4/2026"
+  },
+  {
+   "data": "2026-04-14",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 4/2026"
+  },
+  {
+   "data": "2026-04-20",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 4/2026"
+  },
+  {
+   "data": "2026-04-28",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 4/2026"
+  },
+  {
+   "data": "2026-04-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 4/2026"
+  },
+  {
+   "data": "2026-04-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-04",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Maio"
+  },
+  {
+   "data": "2026-05-04",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-05-07",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 5/2026"
+  },
+  {
+   "data": "2026-05-13",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 5/2026"
+  },
+  {
+   "data": "2026-05-19",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 5/2026"
+  },
+  {
+   "data": "2026-05-28",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 5/2026"
+  },
+  {
+   "data": "2026-05-29",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 5/2026"
+  },
+  {
+   "data": "2026-05-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-05",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Junho"
+  },
+  {
+   "data": "2026-06-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-06-05",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 6/2026"
+  },
+  {
+   "data": "2026-06-11",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 6/2026"
+  },
+  {
+   "data": "2026-06-18",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 6/2026"
+  },
+  {
+   "data": "2026-06-27",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 6/2026"
+  },
+  {
+   "data": "2026-06-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 6/2026"
+  },
+  {
+   "data": "2026-06-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Julho"
+  },
+  {
+   "data": "2026-07-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-07-07",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 7/2026"
+  },
+  {
+   "data": "2026-07-10",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 7/2026"
+  },
+  {
+   "data": "2026-07-16",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 7/2026"
+  },
+  {
+   "data": "2026-07-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 7/2026"
+  },
+  {
+   "data": "2026-07-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 7/2026"
+  },
+  {
+   "data": "2026-07-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-07",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Agosto"
+  },
+  {
+   "data": "2026-08-03",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-08-05",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 8/2026"
+  },
+  {
+   "data": "2026-08-12",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 8/2026"
+  },
+  {
+   "data": "2026-08-18",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 8/2026"
+  },
+  {
+   "data": "2026-08-28",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 8/2026"
+  },
+  {
+   "data": "2026-08-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 8/2026"
+  },
+  {
+   "data": "2026-08-29",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-08",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Setembro"
+  },
+  {
+   "data": "2026-09-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-09-04",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 9/2026"
+  },
+  {
+   "data": "2026-09-14",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 9/2026"
+  },
+  {
+   "data": "2026-09-18",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 9/2026"
+  },
+  {
+   "data": "2026-09-29",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 9/2026"
+  },
+  {
+   "data": "2026-09-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 9/2026"
+  },
+  {
+   "data": "2026-09-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-09",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Outubro"
+  },
+  {
+   "data": "2026-10-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-10-06",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 10/2026"
+  },
+  {
+   "data": "2026-10-13",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 10/2026"
+  },
+  {
+   "data": "2026-10-19",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 10/2026"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 10/2026"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 10/2026"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Novembro"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 11/2026"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 11/2026"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 11/2026"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 11/2026"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 11/2026"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-11",
+   "tipo": "OUTROS",
+   "texto": "7 - Prazo final para entrada de novas folhas/novo órgão para competência Dezembro"
+  },
+  {
+   "data": "2026-12-01",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "1 - Abertura das folhas no SIAPE-PPF"
+  },
+  {
+   "data": "2026-12-05",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "OUTROS",
+   "texto": "2 - Prazo final para alterações nos limites orçamentários da Competência 12/2026"
+  },
+  {
+   "data": "2026-12-10",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "FECHAMENTO",
+   "texto": "3 - Fechamento da Folha SIAPE-PPF Competência 12/2026"
+  },
+  {
+   "data": "2026-12-17",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "INTEGRACAO_PPF",
+   "texto": "4 – Integração dos arquivos SIAPE-PPF/SIAFE Competência 12/2026"
+  },
+  {
+   "data": "2026-12-30",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "EXECUCAO_OB",
+   "texto": "5 - SEFAZ emite OB e envia ao Banco - competência 12/2026"
+  },
+  {
+   "data": "2026-12-31",
+   "hora": null,
+   "subsistema": "PPF",
+   "competencia": "2026-12",
+   "tipo": "CREDITO",
+   "texto": "6 - Pagamento Competência 12/2026"
+  }
+ ],
+ "alertas": [
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-02",
+   "texto": "Transmissão da SEAD em 12/02 e execução da Faixa 1 em 23/02. O Carnaval (16 a 18/02) reduz a três dias úteis a janela bruta; não cabem processamento, execução e dois dias de segurança."
+  },
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-05",
+   "texto": "Transmissão da SEAD em 18/05 e Faixa 1 em 21/05: apenas 19 e 20/05 são dias úteis intermediários. Necessária revisão do fluxo para margem de segurança."
+  },
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-08",
+   "texto": "O Anexo I indica execução da Faixa 1 em 23/08/2026 (domingo), anterior ao crédito em 24/08. Requer validação do evento bancário e da data operacional."
+  },
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-10",
+   "texto": "Transmissão em 15/10, feriado Dia do Piauí em 19/10 e Faixa 1 em 22/10: três dias úteis intermediários. A meta padrão de dois dias de reserva não é atendida."
+  },
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-11",
+   "texto": "Transmissão em 16/11, feriado em 20/11 e Faixa 1 em 23/11: três dias úteis intermediários. Rever antecedência de transmissão ou procedimento de fechamento."
+  },
+  {
+   "subsistema": "PPF",
+   "competencia": "2026-02",
+   "texto": "O Anexo II não registra a data de integração PPF/SIAFE para fevereiro. Em 07/02 há evento de OB da competência 01/2026 em sábado."
+  },
+  {
+   "subsistema": "PPF",
+   "competencia": "2026-06",
+   "texto": "Execução bancária PPF indicada em 27/06/2026 (sábado). Necessária validação antes da parametrização de execução automática."
+  },
+  {
+   "subsistema": "PPF",
+   "competencia": "2026-10",
+   "texto": "Integração em 19/10 (feriado estadual) e OB/pagamento em 30/10 (ponto facultativo estadual). Não deslocar silenciosamente; validar formalmente com a área responsável."
+  },
+  {
+   "subsistema": "FOLHA",
+   "competencia": "2026-12",
+   "texto": "Crédito do 13º salário publicado em 20/12/2026 (domingo). O fluxo do 13º não está abrangido pela janela da Faixa 1 e deve ter parâmetros próprios."
+  },
+  {
+   "subsistema": "PPF",
+   "competencia": null,
+   "texto": "O texto do Anexo II repete \"Abertura das folhas de Fevereiro\" em outras competências e traz prazos em sábados. Preservados como origem, devem ser conferidos."
+  }
+ ]
+}

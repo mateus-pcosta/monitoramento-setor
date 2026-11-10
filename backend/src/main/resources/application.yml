@@ -1,0 +1,47 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: monitoramento-gepag
+  datasource:
+    # Banco local em arquivo (pasta ./data). Apague a pasta para começar do zero.
+    url: jdbc:h2:file:./data/monitoramento;AUTO_SERVER=TRUE
+    username: sa
+    password: ""
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+  h2:
+    console:
+      enabled: false
+  web:
+    resources:
+      cache:
+        # O navegador sempre confere se o JS/CSS mudou (sem isso, depois de atualizar o app,
+        # telas novas podem não abrir até um Ctrl+F5).
+        cachecontrol:
+          no-cache: true
+
+app:
+  planilha:
+    # Planilha local regravada automaticamente a cada alteração (e periodicamente, para atualizar os tempos).
+    # Se ela estiver aberta no Excel, a gravação espera o arquivo ser fechado.
+    caminho: ./data/monitoramento-gepag.xlsx
+    atualizar-a-cada: 10m
+  sheets:
+    # Integração opcional: quando ligada, cada gravação da planilha também é enviada ao Google Sheets.
+    enabled: false
+    spreadsheet-id: ""
+    credentials-path: credentials.json
+
+---
+spring:
+  config:
+    activate:
+      on-profile: postgres
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/gepag}
+    username: ${DB_USER:gepag}
+    password: ${DB_PASSWORD:gepag}
