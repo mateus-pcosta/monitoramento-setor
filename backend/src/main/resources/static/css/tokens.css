@@ -1,0 +1,86 @@
+/*
+  Ardósia esverdeada, texto cor de giz e um único acento âmbar, reservado para a ação principal
+  e para demandas em execução. Status: ok = concluído, revisar = aguardando outra unidade,
+  prioridade = fora do prazo. Essas cores nunca são usadas como decoração.
+*/
+:root {
+  color-scheme: dark;
+
+  --ardosia: #151e1b;
+  --superficie: #1c2824;
+  --superficie-2: #24332e;
+  --superficie-3: #2c3d37;
+  --linha: #2f413a;
+  --linha-forte: #3f544c;
+
+  --giz: #e6e2d6;
+  --giz-2: #b4bdb6;
+  --giz-3: #8d9b93;
+
+  --lampada: #e3a63b;
+  --lampada-forte: #f0b850;
+  --lampada-tinta: #2a1d05;
+  --lampada-suave: rgba(227, 166, 59, 0.14);
+
+  --ok: #6dbe8c;
+  --ok-suave: rgba(109, 190, 140, 0.14);
+  --revisar: #e8935f;
+  --revisar-suave: rgba(232, 147, 95, 0.15);
+  --prioridade: #ec6f63;
+  --prioridade-suave: rgba(236, 111, 99, 0.16);
+  --neutro-suave: rgba(180, 189, 182, 0.12);
+
+  /* Série única dos gráficos (magnitude, sem significado de status) */
+  --serie: #8db7c7;
+
+  --foco: 0 0 0 2px var(--ardosia), 0 0 0 4px var(--lampada);
+
+  --fonte: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --t-xs: 0.8125rem;   /* 13 */
+  --t-sm: 0.875rem;    /* 14 */
+  --t-md: 1rem;        /* 16 */
+  --t-lg: 1.25rem;     /* 20 */
+  --t-xl: 1.625rem;    /* 26 */
+  --t-xxl: 2.25rem;    /* 36 */
+
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+
+  --sombra-painel: -24px 0 48px rgba(0, 0, 0, 0.35);
+  --nav-largura: 232px;
+  --conteudo-max: 1120px;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --ardosia: #eef0ea;
+  --superficie: #ffffff;
+  --superficie-2: #f4f5f0;
+  --superficie-3: #e7eae3;
+  --linha: #d9ddd4;
+  --linha-forte: #bfc6bb;
+
+  --giz: #1d2622;
+  --giz-2: #47544d;
+  --giz-3: #66736c;
+
+  --lampada: #b77812;
+  --lampada-forte: #9c650c;
+  --lampada-tinta: #ffffff;
+  --lampada-suave: rgba(183, 120, 18, 0.12);
+
+  --ok: #2f8a55;
+  --ok-suave: rgba(47, 138, 85, 0.12);
+  --revisar: #b85d22;
+  --revisar-suave: rgba(184, 93, 34, 0.12);
+  --prioridade: #c23b30;
+  --prioridade-suave: rgba(194, 59, 48, 0.1);
+  --neutro-suave: rgba(71, 84, 77, 0.08);
+
+  --serie: #3a7488;
+
+  --foco: 0 0 0 2px var(--ardosia), 0 0 0 4px var(--lampada);
+  --sombra-painel: -16px 0 40px rgba(29, 38, 34, 0.14);
+}
