@@ -1,0 +1,23 @@
+/* Só na demonstração (GitHub Pages). */
+
+.faixa-demo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  max-width: var(--conteudo-max);
+  margin: 0 auto 20px;
+  padding: 10px 14px;
+  border: 1px solid var(--linha);
+  border-left: 3px solid var(--lampada);
+  border-radius: var(--r-md);
+  background: var(--superficie);
+  color: var(--giz-2);
+  font-size: var(--t-sm);
+}
+
+/* Sem servidor não há planilha para baixar. */
+a[href^="/api/"] {
+  display: none !important;
+}

@@ -10,3 +10,4 @@ e2e/
 # Configurações locais de ferramentas
 .claude/
 .vscode/
+_site/

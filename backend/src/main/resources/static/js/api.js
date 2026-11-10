@@ -3,7 +3,14 @@
 const SEM_SERVIDOR =
   "Sem conexão com o servidor. Confira se a aplicação está rodando (mvnw spring-boot:run) e tente de novo.";
 
+/** Na demonstração do GitHub Pages não há servidor: as chamadas vão para uma API simulada no navegador. */
+const DEMO = globalThis.GEPAG_DEMO === true;
+
 async function requisitar(metodo, caminho, corpo) {
+  if (DEMO) {
+    const { requisitar: simulada } = await import("./demo/api-simulada.js");
+    return simulada(metodo, caminho, corpo);
+  }
   const opcoes = { method: metodo, headers: { Accept: "application/json" } };
   if (corpo instanceof FormData) {
     opcoes.body = corpo;
