@@ -1,0 +1,12 @@
+e2e/screenshots/
+__pycache__/
+data/
+credentials*.json
+
+# Material interno, fora do repositório público
+docs/
+e2e/
+
+# Configurações locais de ferramentas
+.claude/
+.vscode/
