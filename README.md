@@ -2,6 +2,14 @@
 
 Acompanhamento interno do ciclo da folha no setor GEPAG. Mede quanto tempo cada etapa leva, quanto tempo cada pessoa da equipe passa em cada demanda e quanto tempo se espera por outras unidades (SEAD, SEPLAN, Logus, processos SEI). Os tempos ficam numa planilha regravada automaticamente; depois ela pode ser espelhada no Google Sheets para a equipe consultar.
 
+## Demonstração online
+
+**https://mateus-pcosta.github.io/monitoramento-setor/**
+
+Versão para conhecer as telas sem instalar nada. Roda inteira no navegador, com dados fictícios: o que cada pessoa faz fica só no navegador dela (não é compartilhado com os colegas) e a planilha não é gerada. O botão "Recomeçar demonstração" volta ao exemplo inicial.
+
+Ela é publicada sozinha no GitHub Pages a cada push na `main` ([pages.yml](.github/workflows/pages.yml)): o script [demo/montar.sh](demo/montar.sh) copia as telas do sistema e liga uma API simulada ([demo/api-simulada.js](demo/api-simulada.js)) que reproduz as regras do back-end. Para gerar localmente: `sh demo/montar.sh` e sirva a pasta `_site/`.
+
 ## Como rodar
 
 Requisitos: Java 21. Não é preciso instalar Maven (o projeto usa o Maven Wrapper).
